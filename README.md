@@ -3,12 +3,11 @@ Building a modern data warehouse with SQL Server, including ETL process, data mo
 
 ```
 sql-data-warehouse-project/
-├── 00_setup/                    the setup guide, and the one-click Docker start for Mac
-├── 01_datasets/                 the six source files the project loads
-├── 02_docs/
-|   ├──Data Architecture.png     creates the Data Architechture 
-├── 03_scripts/                  the project scripts, in the order of the videos
-└── 04_tests/                    checks the quality of the silver and gold data
+├── setup/                    the setup guide, and the one-click Docker start for Mac
+├── datasets/                 the six source files the project loads
+├── docs/
+├── scripts/                  the project scripts, in the order of the videos
+└── tests/                    checks the quality of the silver and gold data
 ```
 
 ## 🏗️ Data Architecture
@@ -34,11 +33,8 @@ In this project, I:
 
 ## 🛠️ Important Links & Tools
 
-- **SQL Server and SSMS:** the setup guide in `00_setup` has the links and every step.
-- **[Git](https://github.com/):** a GitHub account, to save and share your project.
-- **[draw.io](https://www.drawio.com/):** to draw the architecture and the data model.
-- **[Notion template](https://www.notion.com/templates/sql-data-warehouse-project):** the project plan, ready to copy.
-- **[Notion project steps](https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269?pvs=4):** every phase and task of the project.
+- **[Github](https://github.com/galibhasan720):** a GitHub account, to save and share your project.
+- **[Notion Project Board](https://app.notion.com/p/SQL-Data-Warehouse-Project-a921501d97ab826c9a7881a1507b599f?source=copy_link):** My project plan and Progress.
 
 ---
 
@@ -68,7 +64,6 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
-For more details, refer to [02_docs/requirements.md](02_docs/requirements.md).
 
 ## 🛡️ License
 
@@ -76,4 +71,4 @@ For more details, refer to [02_docs/requirements.md](02_docs/requirements.md).
 
 ## 🌟 About me
 
-Hi, I'm **Baraa Khatib Salkini**. I spent years in enterprise data engineering and built one of the largest lakehouses at Mercedes-Benz. Today I teach data full-time at **Data With Baraa**: visually, step by step, from zero to hero.
+**Hi, I am Galib Hasan**. Student | DataAnalysis → SQL · Power BI · Python
