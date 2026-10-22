@@ -3,7 +3,6 @@ Building a modern data warehouse with SQL Server, including ETL process, data mo
 
 ```
 sql-data-warehouse-project/
-├── setup/                    the setup guide, and the one-click Docker start for Mac
 ├── datasets/                 the six source files the project loads
 ├── docs/
 ├── scripts/                  the project scripts, in the order of the videos
